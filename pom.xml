@@ -6,9 +6,6 @@
     <artifactId>jb-hello-world-maven</artifactId>
     <packaging>jar</packaging>
     <version>0.1.0</version>
-    <build>
-        <filename>docker-jenkins-integration</filename>
-    </build>
 
     <!-- tag::joda[] -->
      <properties>
